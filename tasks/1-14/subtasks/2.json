@@ -9,7 +9,7 @@
       "function": "evaluate_exact_match",
       "args": {
         "doc_type": "xlsx",
-        "result_file": "./data/salery.xlsx",
+        "result_file": "./data/salary.xlsx",
         "expected_file": "../../../../reference/salery.xlsx"
       }
     }
