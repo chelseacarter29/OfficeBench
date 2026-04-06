@@ -17,10 +17,10 @@
                 "doc_type": "email",
                 "username": "Alice",
                 "keywords": [
-                    "Activity1",
-                    "Activity2",
-                    "Activity3",
-                    "Activity4"
+                    "Activity 1",
+                    "Activity 2",
+                    "Activity 3",
+                    "Activity 4"
                 ]
             }
         },
@@ -30,10 +30,10 @@
                 "doc_type": "pdf",
                 "file": "data/task.pdf",
                 "keywords": [
-                    "Activity1",
-                    "Activity2",
-                    "Activity3",
-                    "Activity4"
+                    "Activity 1",
+                    "Activity 2",
+                    "Activity 3",
+                    "Activity 4"
                 ]
             }
         }
